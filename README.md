@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EHTISHAM-Afzal
-- 👀 I’m interested in web3 blockchain Dapps 
-- 🌱 I’m currently learning solidity
+- 👀 I’m interested in web3 Blockchain Dapps 
+- 🌱 I’m currently learning solidity smart contracts
 - 📫 How to reach me @EHTISHAMoo7 twitter
 
 <!---
