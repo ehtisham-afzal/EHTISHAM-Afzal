@@ -1,4 +1,4 @@
-# 👋 Hi, I’m EHTISHAM-Afzal
+# 👋 Hi, I’m Ehtisham-Afzal
 ## I'm a front-end developer, based in Pakistan. specializing in full-stack web applications using JavaScript, TypeScript, React, Next.js, and Node.js. I love building tools that are user-friendly, simple and delightful. ✨
 
 
